@@ -71,15 +71,27 @@ Password: lemon@789!
 ```
 
 ### Login using ```djoser``` endpoint
+```
 /auth/token/login 
+```
 
 ### Make POST request and create new user
+```
 /auth/users/ 
+```
 
 ### Menu items
+```
 /restaurant/menu/
+```
+```
 /restaurant/menu/{menuItemId}
+```
 
 ### Table booking 
+```
 /restaurant/booking/tables/
+```
+```
 /restaurant/booking/tables/{bookingId}
+```
