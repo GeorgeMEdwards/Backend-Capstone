@@ -60,9 +60,15 @@ py manage.py test tests
 
 ### Credentials
 
+```
 Username: admin
+```
+```
 Email: admin@littlelemon.com
+```
+```
 Password: lemon@789!
+```
 
 ### Login using ```djoser``` endpoint
 /auth/token/login 
